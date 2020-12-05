@@ -21,7 +21,7 @@ public class Sdemo01Application {
 	{
 		System.out.println("Hello World-2..!!!");
 		System.out.println("Hello World...!!!..()..");
-		System.out.println(" ------***-----***------");
+		String str = "Sachin";
 		System.out.println(" ------***-----------");
 	}
 
