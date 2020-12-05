@@ -14,6 +14,7 @@ public class Sdemo01Application {
 	public static void hello()
 	{
 		System.out.println("Hello World...!!!");
+		System.out.println(" ------***-----------");
 	}
 
 }
