@@ -20,6 +20,8 @@ public class Sdemo01Application {
 	public static void hello2()
 	{
 		System.out.println("Hello World-2..!!!");
+		System.out.println("Hello World...!!!");
+		System.out.println(" ------***-----------");
 	}
 
 }
