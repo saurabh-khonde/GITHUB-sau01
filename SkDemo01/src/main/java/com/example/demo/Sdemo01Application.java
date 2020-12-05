@@ -23,6 +23,10 @@ public class Sdemo01Application {
 		System.out.println("Hello World...!!!..()..");
 		String str = "Sachin";
 		System.out.println(" ------***-----------");
+
+		System.out.println(" ------***-----***------");
+		int a=10;
+
 	}
 
 }
